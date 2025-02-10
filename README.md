@@ -51,7 +51,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-Access the prototype at your: [http://localhost:5000](http://localhost:5000)
+Access the prototype at your [http://localhost:5000](http://localhost:5000)
 
 ---
 
