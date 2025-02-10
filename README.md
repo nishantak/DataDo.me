@@ -51,7 +51,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-Access the prototype at: [http://localhost:5000](http://localhost:5000)
+Access the prototype at your: [http://localhost:5000](http://localhost:5000)
 
 ---
 
@@ -59,4 +59,4 @@ Access the prototype at: [http://localhost:5000](http://localhost:5000)
 
 - **Graph Neural Networks (GNNs)** to capture complex relationships for more precise cleaning
 - **Domain-Specific Optimizations** for industry-specific data structures
-- **Convolutional Neural Networks (CNNs)** for image dataset cleaning (Undergoing)
+- **Convolutional Neural Networks (CNNs)** for image dataset cleaning (undergoing)
