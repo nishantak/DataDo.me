@@ -4,6 +4,8 @@
 
 > What LLM is to chatbots, DataDo.me is to datasets
 
+<img src="app/static/img/banner.jpeg" style="display:block; margin:auto; width:70%;">
+
 DataDo.me is an automated, end-to-end modular solution that makes the data cleaning and pre-processing tasks for your AI/ML applications a cakewalk. 
 
 It implements hypertuned algorithms to detect and resolve duplicates, missing values, outliers, and type inconsistencies. It goes a step further and scales the data, encodes categorical values, and even augments sparse or uniform datasets with distribution-aware synthetic samples, if needed.
