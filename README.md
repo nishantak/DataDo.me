@@ -5,7 +5,7 @@
 > What LLM is to chatbots, DataDo.me is to datasets
 
 <div align="center">
-<img src="app/static/img/banner.jpeg" style="width:65%;">
+<img src="app/static/img/banner.jpeg" style="width:60%;">
 </div>
 
 DataDo.me is an automated, end-to-end modular solution that makes the data cleaning and pre-processing tasks for your AI/ML applications a cakewalk. 
