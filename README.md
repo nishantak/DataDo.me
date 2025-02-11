@@ -4,7 +4,9 @@
 
 > What LLM is to chatbots, DataDo.me is to datasets
 
-<img src="app/static/img/banner.jpeg" style="display:block; margin:auto; width:70%;">
+<div align="center">
+<img src="app/static/img/banner.jpeg" style="width:70%;">
+</div>
 
 DataDo.me is an automated, end-to-end modular solution that makes the data cleaning and pre-processing tasks for your AI/ML applications a cakewalk. 
 
@@ -19,7 +21,9 @@ A clean, consistent dataset optimized for high-performance analytics and model t
 
 Compare and contrast the efficacy of a dataset cleaned with our tools versus conventional cleaning, using final output metrics.
 
+<div align="center">
 <img src="app/static/img/key-metric.jpeg" style="display:block; margin:auto; width:95%;">
+</div>
 
 ---
 
