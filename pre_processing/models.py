@@ -5,19 +5,17 @@ import seaborn as sns
 import os
 import pandas as pd
 
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report, explained_variance_score, mean_absolute_error, mean_squared_error, r2_score
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.svm import SVR
 from sklearn.neighbors import KNeighborsRegressor
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
+from sklearn.model_selection import train_test_split
+
 from utils import global_store
 from pre_processing.main import main
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
-from sklearn.metrics import classification_report, explained_variance_score, mean_absolute_error, mean_squared_error, r2_score
-
 from pre_processing.modules.transformation import transform
 
 models = {
