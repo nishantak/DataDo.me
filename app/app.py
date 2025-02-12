@@ -173,7 +173,7 @@ def capture():
 
     print(f"Received Data: {result_array}")
 
-    # return jsonify({"message": "Data received successfully", "data": result_array})
+    return jsonify({"message": "Data received successfully", "data": result_array})
 
 @app.route('/checkbox-data', methods=['POST'])
 def checkbox_data():
