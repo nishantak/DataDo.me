@@ -8,7 +8,7 @@
 <img src="app/static/img/banner.jpeg" style="width:60%;">
 </div>
 
-DataDo.me is an automated, end-to-end modular solution that makes the data cleaning and pre-processing tasks for your AI/ML applications a cakewalk. 
+DataDo.me is an automated, end-to-end, modular solution that makes the data cleaning and pre-processing tasks for your AI/ML applications a cakewalk. 
 
 It implements hypertuned algorithms to detect and resolve duplicates, missing values, outliers, and type inconsistencies. It goes a step further and scales the data, encodes categorical values, and even augments sparse or uniform datasets with distribution-aware synthetic samples, if needed.
 
@@ -32,7 +32,7 @@ Compare and contrast the efficacy of a dataset cleaned with our tools versus con
 - **Duplicate Detection & Removal** using **MD5 hashing**
 - **Null Value Imputation** using **KNN** for social-network type validation and diversity
 - **Outlier Detection & Removal** using **DBSCAN on PCA Data** for genuine anomaly detection
-- **Intelligent Type Inference & Correction** (e.g., proper datetime parsing,  sanitizing categorical numeric-string)
+- **Intelligent Type Inference & Correction** (e.g. proper datetime parsing,  sanitizing categorical numeric-string)
 - **CTGAN Synthetic Data Generation** to enhance dataset diversity
 ---
 
